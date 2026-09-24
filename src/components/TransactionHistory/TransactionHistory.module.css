@@ -1,0 +1,20 @@
+.table {
+  width: 400px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.head {
+  background-color: #2b2a2a;
+  color: aliceblue;
+}
+tbody tr:nth-child(even) {
+  background-color: #a5a5a5;
+}
+td {
+  border: 1px solid black;
+}
