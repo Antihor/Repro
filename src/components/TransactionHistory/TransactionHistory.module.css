@@ -13,7 +13,7 @@
   color: aliceblue;
 }
 tbody tr:nth-child(even) {
-  background-color: #a5a5a5;
+  background-color: #d2d1d1;
 }
 td {
   border: 1px solid black;
